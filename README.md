@@ -1,4 +1,4 @@
-# AI4B
+# AI Python for Beginners
 
 ![image-20250823210909961](assets/image-20250823210909961.png)
 

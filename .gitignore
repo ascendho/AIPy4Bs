@@ -1,0 +1,35 @@
+# Bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoint
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors/IDEs
+.vscode/
+.idea/
+
+# Test/coverage artifacts
+.pytest_cache/
+.mypy_cache/
+htmlcov/
+.coverage*
+
+# Logs
+*.log
+
+# Temporary data
+*.tmp
+*.swp
+*.swo
